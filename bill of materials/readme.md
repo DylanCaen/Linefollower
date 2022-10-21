@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk (€)|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1|Li-ion batterij|3,7V;2600mAh|nieuw|2,95|2|5,90|
+|         1|Li-ion batterij|3,7V; 2600mAh|nieuw|2,95|2|5,90|
 |         2|Li-ion batterij lader||nieuw|7,99|1|7,99|         
 |         3|Li-ion batterij houder||nieuw|1,39|1|1,39|
 |         4|Micro metal Gear Motor|50:1; 6V; 650rpm|nieuw|6,95|2|13,90|
