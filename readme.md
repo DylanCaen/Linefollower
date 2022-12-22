@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Atmega32U4 (Arduino pro micro)
 <br />
-motors: 
+motors: Micro metal gear motor 50:1 6V 650rpm 
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 2x li-ion 3,7V, 2600mAh
 <br />
-wireless communication:
+wireless communication: HC-05 (bluethooth)
 <br />
-distance sensor - motors:
+distance sensor - motors: 12cm
 <br />
-weight:
+weight: 300gr
 <br />
-speed: 
+speed: 0,565m/s
 <br />
